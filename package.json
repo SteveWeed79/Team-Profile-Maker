@@ -3,7 +3,7 @@
     "inquirer": "^8.2.4"
   },
   "name": "team-profile-maker",
-  "description": "",
+  "description": "MIT License",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -11,10 +11,10 @@
     "test": "tests"
   },
   "devDependencies": {
-    "jest": "^28.1.3"
+    "jest": "^26.5.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
