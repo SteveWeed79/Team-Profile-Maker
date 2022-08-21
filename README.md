@@ -19,10 +19,10 @@
 
  Use this application to build a profile for your team to use to quickly reference information on team members.
 
-Here is a link to a demo video:  https://drive.google.com/file/d/1EUHJPLoAFeSoaW-olnYj-PXrY4kKIUjN/view
+Here is a link to a demo video:  https://drive.google.com/file/d/1_f808zYhRez8n3MUKd_xlJPD-dfZblkl/view
 
 
-Here is a screen shot of the sample html created with this application.
+Here is a screen shot of the sample html created with this application.  The sample html is located in the sample folder of this application.
     
 ![alt text](./sample/images/screenshot.JPG)
 
