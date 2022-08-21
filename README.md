@@ -4,7 +4,7 @@
 
  Builds a team profile in html quickly using command line.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
