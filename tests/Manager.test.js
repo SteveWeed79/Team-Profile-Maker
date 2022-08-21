@@ -1,7 +1,7 @@
 const Manager = require("../lib/manager.js")
 
 
-const man = new Manager('Steve', 42, 'email@email.com', 'Turkey');
+const man = new Manager('Orion', 2, 'lilboy@email.com');
 
 
 describe("Manager", () => {
@@ -9,10 +9,9 @@ describe("Manager", () => {
 
     test("Check Manager constructor", () => {
         expect(typeof man).toBe("object");
-        expect(typeof man.getName()).toBe("string")
-        expect(typeof man.getId()).toBe("number")
-        expect(typeof man.getEmail()).toBe("string")
-
+        expect(man.getName()).toBe("Orion")
+        expect(man.getId()).toBe(2)
+        expect(man.getEmail()).toBe("lilboy@email.com")
     })
 }
 

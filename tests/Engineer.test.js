@@ -1,7 +1,7 @@
 const Engineer = require("../lib/engineer.js")
 
 
-const eng = new Engineer('Steve', 42, 'email@email.com', 'Turkey');
+const eng = new Engineer('Orion', 2, 'lilboy@email.com', 'Turkey');
 
 
 describe("Engineer", () => {
@@ -9,10 +9,10 @@ describe("Engineer", () => {
 
     test("Check Engineer constructor", () => {
         expect(typeof eng).toBe("object");
-        expect(typeof eng.getName()).toBe("string")
-        expect(typeof eng.getId()).toBe("number")
-        expect(typeof eng.getEmail()).toBe("string")
-        expect(typeof eng.getGithub()).toBe("string")
+        expect(eng.getName()).toBe("Orion")
+        expect(eng.getId()).toBe(2)
+        expect(eng.getEmail()).toBe("lilboy@email.com")
+        expect(eng.getGithub()).toBe("Turkey")
     })
 }
 
