@@ -24,7 +24,7 @@ function buildTeam() {
                 message: 'Please enter the employee name.',
             },
             {
-                type: 'input',
+                type: 'number',
                 name: 'id',
                 message: 'Please enter the employee id number.',
             },

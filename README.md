@@ -1,10 +1,35 @@
-# Team-Profile-Maker
+# Team-Profile-Builder ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Description
+
+ Builds a team profile in html quickly using command line.
+
+## Table of Contents (Optional)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
+
+ N/A
+
+## Usage
+
+ Use this application to build a profile for you r team.
+
+To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    md
+    ![alt text](assets/images/screenshot.png)
+
 
 ## License
 
-MIT License
+  MIT License
 
-Copyright (c) 2022 SteveWeed79
+Copyright (c) [year] [fullname]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,3 +48,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## How to Contribute 
+
+ None
+
+## Tests 
+
+ run npm test
+
+## Questions
+
+Github profile: https://github.com/SteveWeed79
+
+Feel free to email me with any questions at steveweed1979@gmail.com
+
+        
