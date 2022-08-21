@@ -13,23 +13,25 @@
 
 ## Installation
 
- N/A
+ You need to run "npm install" on the command line.
 
 ## Usage
 
- Use this application to build a profile for you r team.
+ Use this application to build a profile for your team to use to quickly reference information on team members.
 
-To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Here is a link to a demo video:  https://drive.google.com/file/d/1EUHJPLoAFeSoaW-olnYj-PXrY4kKIUjN/view
 
-    md
-    ![alt text](assets/images/screenshot.png)
+
+Here is a screen shot of the sample html created with this application.
+    
+![alt text](./sample/images/screenshot.JPG)
 
 
 ## License
 
   MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [SteveWeed79]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -50,10 +52,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-## How to Contribute 
-
- None
 
 ## Tests 
 
